@@ -19,3 +19,6 @@ Scurta recapitulare 04.08:
  - menu ribbon
  - puncte de vedere diferite
  - optiuni de view port
+ - moduri de editare (detali, fizici)
+ - giamul de outline (selectarea formelor)
+ - importul de obiecte (scaun, canapea, usa, stalp, etc)
