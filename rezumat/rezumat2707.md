@@ -22,3 +22,15 @@ Scurta recapitulare 04.08:
  - moduri de editare (detali, fizici)
  - giamul de outline (selectarea formelor)
  - importul de obiecte (scaun, canapea, usa, stalp, etc)
+
+  Recapitulare 10.08:
+
+  **Asset - pietre, lemn, apa/ape, vegetatie, nisip, asfalt etc**
+  **Materiale - skinuri pentru obiecte: piele la scaun, lemn pe cutie, sticla pe geam**
+
+
+ - diferite tipuri de aseturi (de pe unreal engine marketshop, quixel bridge)
+ - adaugand materiale pe obiecte
+ - agaugand aseturi la content
+
+ - Am descarcat primele pachete
