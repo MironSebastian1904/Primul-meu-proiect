@@ -34,3 +34,22 @@ Scurta recapitulare 04.08:
  - agaugand aseturi la content
 
  - Am descarcat primele pachete
+ - quixel bridge
+ - sub editor si static mesh editor
+ - editarea si crearea materialului
+
+## 9/1/2024
+
+ - ce este un blueprint
+     - comstruction script
+     - event graph
+ - cum se creaza un blueprint
+ - proprietati
+ - 
+ - blueprint
+
+
+
+ instalate
+ Solana SDK
+AI NPC Builder SDK
